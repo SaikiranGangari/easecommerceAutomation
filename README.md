@@ -67,7 +67,7 @@ npm install
 ```json
 {
   "scripts": {
-    "test": "testcafe chrome *.js"
+    "test": "testcafe chrome ui-tests/*.js"
   }
 }
 ```
